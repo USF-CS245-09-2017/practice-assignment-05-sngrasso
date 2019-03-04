@@ -1,3 +1,1 @@
-# CS 245 (Spring, 2019) Practice Assignment 05
-
-See assignment details on Canvas.
+link to graph: https://docs.google.com/spreadsheets/d/17ewa1HDToxmoiEOpzceApddEbqs4G3nEXAGeJUN-a7E/edit#gid=0
